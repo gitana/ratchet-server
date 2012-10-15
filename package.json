@@ -1,0 +1,52 @@
+{
+  "author": {
+    "name": "Gitana Software, Inc.",
+    "email": "info@cloudcms.com",
+    "url": "http://www.cloudcms.com"
+  },
+  "name": "ratchet-server",
+  "description": "Ratchet Server Controllers for Node JS",
+  "version": "0.1.3",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/gitana/ratchet-node.git"
+  },
+  "engines": {
+    "node": ">= 0.4.1 < 0.9.0"
+  },
+  "dependencies": {
+    "gitana": "*",
+	"fs": "*",
+	"watch": "*",
+	"http": "*",
+	"mkdirp": "*",
+	"request": "*"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "contributors": [
+    {
+      "name": "Michael Uzquiano",
+      "email": "uzi@cloudcms.com"
+    },
+    {
+      "name": "Yong Qu",
+      "email": "drq@cloudcms.com"
+    }
+  ],
+  "keywords": [
+    "ratchet",
+	"wcm",
+	"web",
+    "cloudcms",
+    "cms",
+    "content",
+    "json",
+    "rest",
+    "mobile",
+    "content management",
+    "javascript",
+	"nodejs"
+  ],
+  "main": "index"
+}
