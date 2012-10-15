@@ -1,4 +1,5 @@
-ratchet-node
-========
+ratchet-server
+==============
 
-NodeJS-powered server-side controllers for the Ratchet Web Framework
+Server-side Controllers for Dynamic Gadgets in Ratchet
+Currently being developed for Node JS
